@@ -36,4 +36,10 @@
 - Now open the sound file **<3 nedwill 2016** in the /SD folder
 - follow the onescreen instructions until the console reboots into the normal home menu (you are done at this point) (if the 2ds freezes just try again)
 
+## Final Step:
+- Launch the Download Play application
+- Wait until you see the Nintendo 3DS and Nintendo DS buttons
+- Press (Left Shoulder) + (D-Pad Down) + (Select) at the same time to open the Rosalina menu
+
+- now you can install all the stuff
 
