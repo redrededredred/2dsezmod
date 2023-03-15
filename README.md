@@ -3,8 +3,8 @@
 
 ## Step 1:
 
-- Download files [here](https://google.de)
-- Extract **files.zip**
+- Download files [here](https://github.com/redrededredred/2dsezmod/releases/download/final/epic_files.zip)
+- Extract **epic_files.zip**
  
 
 ## Step 2:
@@ -17,8 +17,8 @@
 
 - Put the freshly formated SD Card in the Console and let Nintendo do its thing
 - Remove the SD Card again and put it into the Computer
-- Now copy all the files in the extracted **folder** folder to the SD Card
-- Your SD Card should look like this:
+- Now copy all the files in the extracted **/Copy the inside to the SD Card + add soundhax in here** folder to the SD Card
+- Your SD Card should look at least a bit like this:
 - ![A image](https://3ds.hacks.guide/images/screenshots/finalizing-root-layout.png)
 
 ## Step 4:
