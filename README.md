@@ -3,8 +3,8 @@
 
 ## Step 1:
 
-- Download files [here](https://google.de) []
-- Extract **files.zip** []
+ - [] Download files [here](https://google.de)
+- [] Extract **files.zip**
 
 
 ## Step 2: 
