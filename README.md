@@ -40,6 +40,17 @@
 - Launch the Download Play application
 - Wait until you see the Nintendo 3DS and Nintendo DS buttons
 - Press (Left Shoulder) + (D-Pad Down) + (Select) at the same time to open the Rosalina menu
+- Select “Miscellaneous options”
+- Select “Switch the hb. title to the current app.”
+- Press (B) to continue
+- Press (B) to return to the Rosalina main menu
+- Press (B) to exit the Rosalina menu
+- Press (Home), then close Download Play
+- Launch the Download Play application
+- **Your device should load the Homebrew Launcher**
+
+    If your device is stuck on the loading splash screen, you are missing boot.3dsx from the root of your SD card
+
 
 - now you can install all the stuff
 
