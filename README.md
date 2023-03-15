@@ -17,6 +17,6 @@
 - Remove the SD Card again and put it into the Computer
 - Now copy all the files in the extracted **folder** folder to the SD Card
 - Your SD Card should look like this:
-![A image](https://3ds.hacks.guide/images/screenshots/finalizing-root-layout.png)
+- ![A image](https://3ds.hacks.guide/images/screenshots/finalizing-root-layout.png)
 ## Step 4:
 - aaaa
